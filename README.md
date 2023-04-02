@@ -4,6 +4,8 @@
   <img src="./img/robot.png" width="100">
 </p>
 
+Making an edit on an ipad.
+
 This repository provides a simple interface that utilizes the `gpt-3.5-turbo` model to read academic papers in PDF format locally.
 
 ## Recent Updates
